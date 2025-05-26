@@ -1,5 +1,10 @@
 {
-  "name": "Repositori de Kim",
-  "url": "https://github.com/kimcollcerezo/rclone",
-  "maintainer": "Kim"
+  "addons": [
+    {
+      "name": "Rclone Uploader",
+      "slug": "rclone_uploader",
+      "description": "Puja fitxers CSV a Google Drive amb rclone",
+      "url": "https://github.com/kimcollcerezo/rclone/tree/main/rclone_uploader"
+    }
+  ]
 }
