@@ -15,7 +15,6 @@
   "map": [
     "config:rw"
   ],
-  "image": "local/rclone-uploader",
   "arch": [
     "aarch64",
     "amd64",
