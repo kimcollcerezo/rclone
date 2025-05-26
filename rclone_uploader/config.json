@@ -1,0 +1,20 @@
+{
+  "name": "Rclone Uploader",
+  "version": "1.0",
+  "slug": "rclone_uploader",
+  "description": "Puja fitxers CSV a Google Drive amb rclone",
+  "startup": "once",
+  "boot": "manual",
+  "init": false,
+  "hassio_api": false,
+  "hassio_role": "default",
+  "homeassistant_api": false,
+  "options": {},
+  "schema": {},
+  "privileged": [],
+  "map": [
+    "config:rw"
+  ],
+  "image": "local/rclone-uploader"
+}
+
