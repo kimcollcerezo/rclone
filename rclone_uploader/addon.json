@@ -1,6 +1,6 @@
 {
   "name": "Rclone Uploader",
-  "version": "1.0",
+  "version": "1.0.1",
   "slug": "rclone_uploader",
   "description": "Puja fitxers CSV a Google Drive amb rclone",
   "startup": "once",
